@@ -2,10 +2,11 @@
 
 ### Netlify build status
 <p align="center">
-  <a href="https://app.netlify.com/sites/trusting-nightingale-a527a7/deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/beingfranklin/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/0abf4e67-137b-44ea-816c-52e8054f2371/deploy-status" alt="Netlify Status" />
   </a>
 </p>
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
