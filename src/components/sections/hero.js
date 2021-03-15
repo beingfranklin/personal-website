@@ -47,12 +47,13 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, I am <a href="https://twitter.com/beingfranklin" target="_blank">@beingfranklin</a> aka </h1>;
+  const one = <h1>Hi, I am </h1>;
   const two = <h2 className="big-heading">Franklin Antony.</h2>;
-  const three = <h3 className="big-heading">I build products for the web.</h3>;
+  const three = <h3 className="big-heading">I like to build stuff.</h3>;
   const four = (
     <p>
-      I'm a Software Engineer based in London, UK <strike>Bangalore, India</strike> specializing in designing and building apps.
+      I'm a Software Engineer based in London, UK <strike> Bangalore, India </strike> specialized in
+      solving problems by building products.
     </p>
   );
   const five = (
